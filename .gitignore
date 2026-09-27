@@ -1,0 +1,16 @@
+# DuckDB databases
+*.duckdb
+*.duckdb.wal
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Power BI temporary/backup files
+*.pbit
+*.pbix.bak
+~$*.pbix
+
+# OS files
+Thumbs.db
+.DS_Store

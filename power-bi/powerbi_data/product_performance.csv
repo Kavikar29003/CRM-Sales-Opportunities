@@ -1,0 +1,8 @@
+product,series,sales_price,total_opportunities,won_opportunities,lost_opportunities,win_rate_pct,won_revenue,avg_won_deal_size
+GTX Pro,GTX,4821,1480,729,418,63.56,3510578,4815.61
+GTX Plus Pro,GTX,5482,968,479,266,64.3,2629651,5489.88
+MG Advanced,MG,3393,1412,654,430,60.33,2216387,3388.97
+GTX Plus Basic,GTX,1096,1383,653,398,62.13,705275,1080.05
+GTX Basic,GTX,550,1866,915,521,63.72,499263,545.64
+GTK 500,GTK,26768,40,15,10,60.0,400612,26707.47
+MG Special,MG,55,1651,793,430,64.84,43768,55.19
